@@ -1,0 +1,3 @@
+[submodule "lib/data_structures"]
+	path = lib/data_structures
+	url = https://github.com/Mause/data_structures
